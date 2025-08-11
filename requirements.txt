@@ -1,5 +1,7 @@
+setuptools>=65.0.0
+wheel>=0.38.0
 dash==2.14.2
 plotly==5.17.0
-pandas==1.5.3
+pandas==1.4.4
 numpy==1.21.6
 gunicorn==21.2.0
